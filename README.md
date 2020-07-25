@@ -1,5 +1,5 @@
 # Travel Destinations
 
-A simple app to keep track of destinations I'd like to visit.
+A simple app to keep track destinations I'd like to visit.
 
 Made by Hemanshu Varma
